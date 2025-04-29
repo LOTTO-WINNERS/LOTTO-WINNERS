@@ -12,6 +12,7 @@ Top 3 Apps
 2.Activity Planner
 3.Money Management
 
+Final App Idea Chosen
 1.Lotto Winner
 Description: An app that will include a random number generator to produce a set of numbers that will determine if the users input guess was the correct selection. The user will open the app and have the opurtunity to enter a set of numbers once the users numbers are finalized the computer will run and create a set of numbers that will either match or not match the users input, the computer will determine if the user input and the computer output matches. If they do the computer will send a good prompt if they dont the computer will send a bad prompt.
 
