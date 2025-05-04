@@ -8,10 +8,8 @@ Table of Contents
 Overview
 Description
 An app that will include a random number generator to produce a set of numbers that will determine if the users input guess was the correct selection. The user will open the app and have the opurtunity to enter a set of numbers once the users numbers are finalized the computer will run and create a set of numbers that will either match or not match the users input, the computer will determine if the user input and the computer output matches. If they do the computer will send a good prompt if they dont the computer will send a bad prompt.
-[Description of your app]
-App Evaluation
 
-[Evaluation of your app across the following attributes]
+App Evaluation
 
     Category: Entertainment
     Mobile: Players will be able to play weekly, or even daily. You will be able to get real-time results. Including the ability to withdraw and deposit money whenever.
