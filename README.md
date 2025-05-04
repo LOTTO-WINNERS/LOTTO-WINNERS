@@ -75,7 +75,8 @@ Wallet Screen
 
 
 Wireframes
-![Wire Frame](https://hackmd.io/_uploads/Hk33owHlel.jpg)
+![Wire Frame](https://github.com/user-attachments/assets/0349393e-6e89-4e51-a92c-766c7fae6a78)
+
 
 
 
