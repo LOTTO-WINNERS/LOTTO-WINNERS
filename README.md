@@ -24,25 +24,35 @@ Product Spec
 1. User Features (Required and Optional)
 
 Required Features
-
-    [fill in your required user features here]
-    ...
-    ...
+- User must be ablei to select numbers
+- User must be able to withdraw transfer and add currency
+- User must be able to see the results
+- User must see possible winnings
 
 Optional Features
-
-    [fill in your optional user features here]
-    ...
-    ...
+- User must see trending selected numbers
+- User must be able to see the results for previous draws
 
 2. Screen Archetypes
+Login Screen
 
-    [list first screen here]
-        [list associated required story here]
-        ...
-    [list second screen here]
-        [list associated required story here]
-        ...
+    User can login
+
+Registration Screen
+
+    User can create a new account
+
+Enter Numbers
+
+    User can enter numbers
+
+Results
+
+    User can post a new photo to their feed
+
+Wallet
+
+    User can choose to either withdraw transfer or add money to account
 
 3. Navigation
 
