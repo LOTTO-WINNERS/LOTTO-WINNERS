@@ -98,7 +98,8 @@ GitHub Project board
 Issue cards
 
 
-![Screenshot (473)](https://github.com/user-attachments/assets/2c056369-625b-4dae-a502-c7489872d3b9)
+![Screenshot (474)](https://github.com/user-attachments/assets/8e45e93d-902c-4e4c-a382-1370e0a80570)
+
 
     [Add screenshot of your Project Board with the issues that you're working on in the NEXT sprint. It should include issues for next unit with assigned owners.]
 
