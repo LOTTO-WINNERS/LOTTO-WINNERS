@@ -124,5 +124,6 @@ Completed user stories
 
 [Add video/gif of your current application that shows build progress]
 App Demo Video
+![Lotto Game GIF](https://github.com/user-attachments/assets/f11017a4-cf2f-4e48-91ae-33333aef7020)
 
     Embed the YouTube/Vimeo link of your Completed Demo Day prep video
