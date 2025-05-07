@@ -117,9 +117,14 @@ Milestone 3 - Build Sprint 2 (Unit 9)
 GitHub Project board
 
 [Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.]
+![Screenshot (475)](https://github.com/user-attachments/assets/10ec0100-c5f0-4a4a-bc74-1edeeac40aef)
+
 Completed user stories
 
     List the completed user stories from this unit
+    - The app showcases the wallet, game and login features
+    - Can go to any window without crashing
+    - has color and images 
     List any pending user stories / any user stories you decided to cut from the original requirements
 
 [Add video/gif of your current application that shows build progress]
